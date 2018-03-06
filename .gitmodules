@@ -1,0 +1,27 @@
+[submodule "my_plugins/vim-rhubarb"]
+	path = my_plugins/vim-rhubarb
+	url = https://github.com/tpope/vim-rhubarb
+[submodule "my_plugins/ctrlp.vim"]
+	path = my_plugins/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim
+[submodule "my_plugins/vim-json"]
+	path = my_plugins/vim-json
+	url = https://github.com/elzr/vim-json
+[submodule "my_plugins/vim-projectionist"]
+	path = my_plugins/vim-projectionist
+	url = https://github.com/tpope/vim-projectionist
+[submodule "my_plugins/vim-ruby"]
+	path = my_plugins/vim-ruby
+	url = https://github.com/vim-ruby/vim-ruby
+[submodule "my_plugins/vim-go"]
+	path = my_plugins/vim-go
+	url = https://github.com/fatih/vim-go
+[submodule "my_plugins/vim-easy-align"]
+	path = my_plugins/vim-easy-align
+	url = https://github.com/junegunn/vim-easy-align
+[submodule "my_plugins/ack.vim"]
+	path = my_plugins/ack.vim
+	url = https://github.com/mileszs/ack.vim
+[submodule "my_plugins/vim-elixir"]
+	path = my_plugins/vim-elixir
+	url = https://github.com/elixir-editors/vim-elixir
